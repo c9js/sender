@@ -1,0 +1,8 @@
+{
+    "name": "sender",
+    "version": "0.0.1",
+    "main": "index.js",
+    "dependencies": {
+        "core": "c9js/core"
+    }
+}
